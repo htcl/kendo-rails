@@ -5,8 +5,8 @@ require "kendoui-rails/version"
 Gem::Specification.new do |s|
   s.name        = "kendoui-rails"
   s.version     = Kendoui::Rails::VERSION
-  s.authors     = ["Brandon Satrom"]
-  s.email       = ["brandon@kendoui.com"]
+  s.authors     = ["Brandon Satrom","Everard Brown"]
+  s.email       = ["brandon@kendoui.com","Everard.Brown@htcl.eu"]
   s.homepage    = "http://github.com/kendo-labs/kendo-rails"
   s.summary     = %q{Gem for Adding Kendo UI to Ruby Applications}
   s.description = %q{Adds GPLv3 Portions of Kendo UI (http://kendoui.com) to javascripts and styles folders}

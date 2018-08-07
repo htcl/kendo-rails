@@ -1,6 +1,6 @@
 module Kendoui
 	module Rails
-		VERSION = "0.1.1"
-  		KENDOUI_VERSION = "2013.1.319"
+		VERSION = "2018.3"
+ 		KENDOUI_VERSION = "2018.3"
   	end
 end
